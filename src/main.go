@@ -7,10 +7,11 @@ import(
 
 func main(){
 
-
+	arg := os.Args[1]
 	authRequest();
 
-	arg := os.Args[1]
+
+	
 	fmt.Print("\nArg = ", arg, "\n")
 }
 
