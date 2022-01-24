@@ -23,6 +23,6 @@ The commands are:
 
 ## Contributing
 
-Please, follow the [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) to contribute.
+Please, follow the steps of [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) to contribute.
 
 
