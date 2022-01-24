@@ -21,6 +21,23 @@ The commands are:
 ```
 
 
+## Requirements
+
+
+Please, make sure you install the requirements
+
+```sh
+$ apt-get install golang gcc libgl1-mesa-dev xorg-dev xsel xclip
+```
+
+Install the [Robotgo](https://pkg.go.dev/github.com/go-vgo/robotgo) package:
+
+```sh
+$ go get -u github.com/go-vgo/robotgo
+```
+
+
+
 ## Contributing
 
 Please, follow the [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) to contribute.
