@@ -5,6 +5,7 @@
 
 ## Funcionais
 
+- [] Módulo de interação com o usuário.
 - [x] Módulo de autenticação; 
     * A autenticação será feita através de uma senha mestre.
 - [] Módulo de criptografia (simétrica);
