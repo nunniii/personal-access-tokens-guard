@@ -1,6 +1,9 @@
 
 
 # Personal access tokens guard
+
+**⚠️ There is a new version written in OCaml from this repository: [passwd_manager](https://github.com/nunniii/passwd_manager).**
+
 **Access your tokens the easy way**
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![License](https://img.shields.io/github/license/mateusnssn/incomprehensible-paper)](./LICENSE)
